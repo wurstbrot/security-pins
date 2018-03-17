@@ -20,4 +20,4 @@ Benefits:
 
 # Project Collaborators
 - [Timo Pagel](https://github.com/wurstbrot) aka `wurstbrot`
-- [Katharina Treptow](https://github.com/CaptainFreak) aka `ktreptow`
+- [Katharina Treptow](https://github.com/ktreptow) aka `ktreptow`
