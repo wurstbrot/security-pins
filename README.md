@@ -16,3 +16,8 @@ Benefits:
 - teams are able to compare each others achievements, especially with different skill levels (e.g. XSS Basics and XSS Advanced events)
 - Security Champions are able to get some kind of certification
 - This project could help engange others in the topic of security
+
+
+# Project Collaborators
+- [Timo Pagel](https://github.com/wurstbrot) aka `wurstbrot`
+- [Katharina Treptow](https://github.com/CaptainFreak) aka `ktreptow`
