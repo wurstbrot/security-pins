@@ -40,13 +40,15 @@
      id="namedview189"
      showgrid="false"
      units="cm"
-     inkscape:zoom="5.5440668"
-     inkscape:cx="31.007824"
-     inkscape:cy="43.753831"
+     inkscape:zoom="7.8404944"
+     inkscape:cx="21.754175"
+     inkscape:cy="46.16982"
      inkscape:window-x="79"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg187" />
+     inkscape:current-layer="g63"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-global="false" />
   <defs
      id="defs125">
     <style
@@ -104,8 +106,7 @@
      x="-52.802792"
      y="-1.2191997" />
   <g
-     id="g63"
-     transform="translate(-0.18037301,0.18037301)">
+     id="g63">
     <circle
        class="cls-4"
        cx="41.807209"
@@ -158,47 +159,6 @@
    y="28.070801"
    id="tspan145">t!4gSxiI?s</tspan>
 </text>
-    <rect
-       class="cls-13"
-       x="-62.235073"
-       y="-45.360802"
-       width="1.9420283"
-       height="9.7700005"
-       transform="scale(-1)"
-       id="rect157"
-       style="fill:#ffffff;stroke-width:0.84188449" />
-    <polygon
-       transform="matrix(0.70876945,0,0,1,-22.987361,-1.2191997)"
-       class="cls-13"
-       points="113.54,37.67 118.77,32.44 124,37.67 118.77,37.67 "
-       id="polygon159"
-       style="fill:#ffffff" />
-    <polygon
-       transform="matrix(0.70876945,0,0,1,-22.987361,-1.2191997)"
-       class="cls-13"
-       points="124,43.92 118.77,49.15 113.54,43.92 118.77,43.92 "
-       id="polygon161"
-       style="fill:#ffffff" />
-    <rect
-       class="cls-13"
-       x="23.172251"
-       y="33.1008"
-       width="1.9420283"
-       height="9.7700005"
-       id="rect165"
-       style="fill:#ffffff;stroke-width:0.84188449" />
-    <polygon
-       transform="matrix(0.70876945,0,0,1,-26.987361,-1.2191997)"
-       class="cls-13"
-       points="77.48,43.22 72.25,48.45 67.02,43.22 72.25,43.22 "
-       id="polygon167"
-       style="fill:#ffffff" />
-    <polygon
-       transform="matrix(0.70876945,0,0,1,-26.987361,-1.2191997)"
-       class="cls-13"
-       points="67.02,36.91 72.25,31.68 77.48,36.91 72.25,36.91 "
-       id="polygon169"
-       style="fill:#ffffff" />
     <path
        style="fill:#ffffff"
        inkscape:connector-curvature="0"
@@ -229,5 +189,55 @@
        id="path179"
        d="m 41.277209,34.8408 a 3.92,3.92 0 1 0 1.15,5.42 3.92,3.92 0 0 0 -1.15,-5.42 z m -3.25,5.06 a 2,2 0 1 1 2.17,-3.3 2,2 0 0 1 -2.15,3.3 z"
        class="cls-15" />
+    <g
+       transform="matrix(-1,0,0,1,83.942549,0.51017191)"
+       id="g5229-7"
+       style="opacity:0.7">
+      <path
+         inkscape:transform-center-y="0.44522846"
+         inkscape:transform-center-x="-1.3664565"
+         inkscape:connector-curvature="0"
+         id="polygon161-5"
+         d="m 69.787656,43.491784 -2.910531,-0.991765 1.511253,5.098221 4.309808,-3.114691 z"
+         style="fill:#ffffff;stroke-width:0.69834763" />
+      <path
+         sodipodi:nodetypes="csc"
+         inkscape:connector-curvature="0"
+         id="path5194-3-3"
+         d="m 69.648816,32.95995 c 0,0 0.850885,2.836277 0.870368,5.970198 0.02255,3.6273 -1.050741,6.066768 -1.050741,5.950318"
+         style="opacity:1;fill:none;stroke:#ffffff;stroke-width:1.88976383;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:transform-center-y="-0.59694197"
+         inkscape:transform-center-x="-1.413226"
+         inkscape:connector-curvature="0"
+         id="polygon161-5-6"
+         d="m 69.882746,34.496752 -2.950659,0.865099 1.730094,-5.028172 4.171224,3.297975 z"
+         style="fill:#ffffff;stroke-width:0.69834763" />
+    </g>
+    <g
+       transform="translate(-2.215387,0.62356736)"
+       id="g5229-7-2"
+       style="opacity:0.7">
+      <path
+         inkscape:transform-center-y="0.44522846"
+         inkscape:transform-center-x="-1.3664565"
+         inkscape:connector-curvature="0"
+         id="polygon161-5-9"
+         d="m 69.787656,43.491784 -2.910531,-0.991765 1.511253,5.098221 4.309808,-3.114691 z"
+         style="fill:#ffffff;stroke-width:0.69834763" />
+      <path
+         sodipodi:nodetypes="csc"
+         inkscape:connector-curvature="0"
+         id="path5194-3-3-1"
+         d="m 69.648816,32.95995 c 0,0 0.850885,2.836277 0.870368,5.970198 0.02255,3.6273 -1.050741,6.066768 -1.050741,5.950318"
+         style="opacity:1;fill:none;stroke:#ffffff;stroke-width:1.88976383;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:transform-center-y="-0.59694197"
+         inkscape:transform-center-x="-1.413226"
+         inkscape:connector-curvature="0"
+         id="polygon161-5-6-2"
+         d="m 69.882746,34.496752 -2.950659,0.865099 1.730094,-5.028172 4.171224,3.297975 z"
+         style="fill:#ffffff;stroke-width:0.69834763" />
+    </g>
   </g>
 </svg>
