@@ -8,13 +8,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 83.149609 83.149605"
+   viewBox="0 0 102.04725 102.04724"
    version="1.1"
    id="svg249"
    sodipodi:docname="web-security-resources.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   width="2.2cm"
-   height="2.2cm">
+   width="2.7cm"
+   height="2.7cm">
   <metadata
      id="metadata253">
     <rdf:RDF>
@@ -131,7 +131,7 @@
        maskUnits="userSpaceOnUse">
       <polygon
          class="cls-2"
-         points="90.63,67.28 86.06,66.91 90.5,77.41 92.56,74.91 92.94,67.72 "
+         points="86.06,66.91 90.5,77.41 92.56,74.91 92.94,67.72 90.63,67.28 "
          id="polygon196"
          style="fill:#1d1d1b;filter:url(#luminosity-noclip-2)" />
     </mask>
@@ -182,7 +182,7 @@
        maskUnits="userSpaceOnUse">
       <polygon
          class="cls-2"
-         points="86.06,66.91 90.5,77.41 92.56,74.91 92.94,67.72 90.63,67.28 "
+         points="90.5,77.41 92.56,74.91 92.94,67.72 90.63,67.28 86.06,66.91 "
          id="polygon196-6"
          style="fill:#1d1d1b;filter:url(#luminosity-noclip-2-7)" />
     </mask>
@@ -279,16 +279,17 @@
   <text
      id="text215"
      x="-53.295483"
-     y="-37.859253" />
+     y="-18.961622" />
   <text
      id="text217"
      x="-53.295483"
-     y="-37.859253" />
+     y="-18.961622" />
   <g
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="Layer 1"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(0,18.897631)">
     <circle
        style="fill:#008d36;stroke:#008d36;stroke-width:11.8156147px;stroke-miterlimit:10"
        id="circle203"
@@ -333,11 +334,13 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Layer 4"
-     style="display:inline" />
+     style="display:inline"
+     transform="translate(0,18.897631)" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="objects">
+     inkscape:label="objects"
+     transform="translate(0,18.897631)">
     <g
        id="g3073"
        transform="matrix(1.08,0,0,1.08,0.26611557,-6.9646306)">

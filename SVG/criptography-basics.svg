@@ -7,12 +7,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 83.149609 83.149603"
+   viewBox="0 0 102.04725 102.04724"
    version="1.1"
    id="svg187"
    sodipodi:docname="criptography-basics.svg"
-   width="2.2cm"
-   height="2.2cm"
+   width="2.7cm"
+   height="2.7cm"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="metadata191">
@@ -90,7 +90,7 @@
        maskUnits="userSpaceOnUse">
       <polygon
          class="cls-1"
-         points="334.56,38.56 334.94,31.38 332.63,30.94 328.06,30.56 332.5,41.06 "
+         points="332.63,30.94 328.06,30.56 332.5,41.06 334.56,38.56 334.94,31.38 "
          id="polygon122"
          style="fill:#1d1d1b;filter:url(#luminosity-noclip)" />
     </mask>
@@ -100,13 +100,14 @@
   <text
      id="text141"
      x="-52.802792"
-     y="-1.2191997" />
+     y="17.678436" />
   <text
      id="text149"
      x="-52.802792"
-     y="-1.2191997" />
+     y="17.678436" />
   <g
-     id="g63">
+     id="g63"
+     transform="translate(0,18.897636)">
     <circle
        class="cls-4"
        cx="50.277565"
