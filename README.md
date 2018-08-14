@@ -16,3 +16,10 @@ Benefits:
 - teams are able to compare each others achievements, especially with different skill levels (e.g. XSS Basics and XSS Advanced events)
 - Security Champions are able to get some kind of certification
 - This project could help engange others in the topic of security
+
+## Exporting SVGs
+When exporting SVGs files, try to export the text as objects to preserve the format and style of the text even when the computer doesn't have installed the font you used.
+
+# Project Collaborators
+- [Timo Pagel](https://github.com/wurstbrot) aka `wurstbrot`
+- [Katharina Treptow](https://github.com/ktreptow) aka `ktreptow`
