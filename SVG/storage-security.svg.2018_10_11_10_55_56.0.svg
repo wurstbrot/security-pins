@@ -39,9 +39,9 @@
      inkscape:window-height="879"
      id="namedview443"
      showgrid="false"
-     inkscape:zoom="3.3256051"
-     inkscape:cx="1.0234711"
-     inkscape:cy="39.019631"
+     inkscape:zoom="2.3515579"
+     inkscape:cx="-61.506276"
+     inkscape:cy="94.246914"
      inkscape:window-x="79"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -102,11 +102,20 @@
            inkscape:connector-curvature="0"
            style="opacity:0.15;fill:#ffffff;stroke-width:1.18193722" />
         <text
-           y="53.523178"
-           x="49.039055"
+           y="61.341309"
+           x="50.392193"
            class="cls-7"
            id="text413"
-           style="font-weight:700;font-size:11.03141499px;font-family:Hind-Bold, Hind;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1.18193722" />
+           style="font-weight:700;font-size:11.03141499px;font-family:Hind-Bold, Hind;fill:#ffffff;stroke-width:1.18193722">
+          <tspan
+             style="text-anchor:middle;text-align:center"
+             id="tspan1065">STORAGE </tspan>
+          <tspan
+             x="27.438282"
+             y="74.342621"
+             id="tspan411"
+             style="font-size:11.03141499px;stroke-width:1.18193722;text-anchor:middle;text-align:center">SECURITY</tspan>
+        </text>
         <rect
            style="fill:#dadada;stroke-width:1.18193722"
            id="rect417"
@@ -143,9 +152,8 @@
            style="fill:#dadada;stroke:#ffffff;stroke-width:2.36387444px;stroke-miterlimit:10"
            inkscape:connector-curvature="0"
            id="path427"
-           d="M 69.289801,7.0968229 C 68.206172,7.0988456 68.059048,6.8013725 67.344611,6.6594712 66.589501,6.5094912 65.83284,6.3682023 65.074781,6.2356221 59.919302,5.3339583 54.699124,4.8350951 49.461615,4.7446249 46.102141,4.8152428 42.750034,5.0484652 39.417008,5.4429063 37.566202,5.6619366 35.721279,5.9306788 33.884244,6.2488954 32.958875,6.4091906 32.036354,6.5862989 31.114397,6.7674122 30.557798,6.876753 30.420589,7.116697 29.686211,7.1284333"
-           class="cls-9"
-           sodipodi:nodetypes="csscsssc" />
+           d="M 69.483632,7.1084997 A 100.72469,100.72469 0 0 0 49.461615,4.7446249 104.08139,104.08139 0 0 0 29.486875,7.1084997"
+           class="cls-9" />
         <g
            id="g5565"
            transform="matrix(1.1819373,0,0,1.1819373,1.1221553,-15.184611)">
@@ -183,28 +191,6 @@
              id="rect437"
              style="fill:#ffffff;stroke:#ffffff;stroke-width:1.03448451px;stroke-miterlimit:10" />
         </g>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-           x="23.593971"
-           y="53.601082"
-           id="text41"><tspan
-             sodipodi:role="line"
-             id="tspan39"
-             x="23.593971"
-             y="53.601082"
-             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12px;font-family:Hind;-inkscape-font-specification:'Hind Semi-Bold';fill:#ffffff">STORAGE</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-           x="22.872002"
-           y="64.579384"
-           id="text41-3"><tspan
-             sodipodi:role="line"
-             id="tspan39-6"
-             x="22.872002"
-             y="64.579384"
-             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12px;font-family:Hind;-inkscape-font-specification:'Hind Semi-Bold';fill:#ffffff">SECURITY</tspan></text>
       </g>
     </g>
   </g>
