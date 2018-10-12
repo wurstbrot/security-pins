@@ -13,7 +13,7 @@
    sodipodi:docname="unvalidated_redirect.svg"
    width="81.839996"
    height="81.839996"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="metadata43">
     <rdf:RDF>
@@ -34,17 +34,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
+     inkscape:window-width="1841"
+     inkscape:window-height="879"
      id="namedview41"
      showgrid="false"
-     inkscape:zoom="2.7794134"
-     inkscape:cx="39.224995"
-     inkscape:cy="39.384995"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg39" />
+     inkscape:zoom="11.117654"
+     inkscape:cx="46.430158"
+     inkscape:cy="53.511784"
+     inkscape:window-x="79"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Ebene_2-2" />
   <defs
      id="defs7">
     <style
@@ -146,9 +146,10 @@
          style="fill:none;stroke:#e30613;stroke-width:2px;stroke-miterlimit:10" />
       <text
          class="cls-12"
-         transform="translate(42.77,31)"
          id="text35"
-         style="font-size:17px;font-family:MyriadPro-Regular, 'Myriad Pro';fill:#e30613">!</text>
+         style="font-size:17px;font-family:MyriadPro-Regular, 'Myriad Pro';fill:#e30613"
+         x="41.399632"
+         y="31.089947">!</text>
     </g>
   </g>
 </svg>

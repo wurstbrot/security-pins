@@ -1,1 +1,169 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 86.69 93.04"><defs><style>.cls-1,.cls-10{fill:none;}.cls-2{clip-path:url(#clip-path);}.cls-3{fill:#00a19a;stroke:#00a19a;stroke-width:10px;}.cls-10,.cls-3{stroke-miterlimit:10;}.cls-4{fill:#00867f;}.cls-11,.cls-5,.cls-7,.cls-9{fill:#fff;}.cls-5{opacity:0.07;}.cls-6{font-size:8px;font-family:Hind-SemiBold, Hind;letter-spacing:-0.05em;}.cls-6,.cls-8{fill:#878787;}.cls-11,.cls-6{font-weight:700;}.cls-9{letter-spacing:-0.05em;}.cls-10{stroke:#fff;}.cls-11{font-size:11.57px;font-family:HalisR-Bold, Halis R;}</style><clipPath id="clip-path" transform="translate(0 -0.11)"><circle class="cls-1" cx="45.94" cy="41.1" r="41.1"/></clipPath></defs><title>Element 275</title><g id="Ebene_2" data-name="Ebene 2"><g id="Ebene_2-2" data-name="Ebene 2"><g class="cls-2"><circle class="cls-3" cx="45.57" cy="41.12" r="36.12"/><path class="cls-4" d="M64.39,22.2a21.42,21.42,0,0,1,1.8,2,8.82,8.82,0,0,1,3.6-1.4c2.1.9,4.11,1.89,4.1,2.1s-3.1-1.1-4.2-1.4a8.65,8.65,0,0,0-3,1.2c-.1.3,0,.4,0,.4a9,9,0,0,1,1.4.6c.2.4.4,1.6.1,1.9-.1.1,0,.15-.4.2s-1.46,1.78-2.54,2.86-5,.25-5,.25.23,2.25.3,4.5c.4.71.9.9,2.3,1.5,2.5.3,4.91-.07,5,.2s-4.86.58-5.3.5-1.5-.5-2.6-.8a10.44,10.44,0,0,0,2.3,2.9c2,.6,4,1.2,4,1.4a33.21,33.21,0,0,1-4.4-.6,26.76,26.76,0,0,1-2.31-1.75c.26.77.47,2.31,1,2.85,1.35,1.35,3.1,2.7,2.95,2.83a34.84,34.84,0,0,1-3.78-2.5C59,40.38,58,37.68,58,37.68H56.88a172.74,172.74,0,0,1,3.81,41c-4.32-2.15-14.87-18.09-7.59-28.35C54.33,48.64,54.45,38,54.45,38a8.28,8.28,0,0,1-2.36-1,3.14,3.14,0,0,1-.7.1C56,47.53,23.88,62.71,23.88,62.71s15.18-32.09,25.71-27.5a2.59,2.59,0,0,1,.1-.7,8.19,8.19,0,0,1-1-2.37s-10.7.13-12.42,1.35C26,40.78,10,30.22,7.88,25.9a173.5,173.5,0,0,1,41,3.81V28.63s-2.7-1.08-4.26-1.79a35.84,35.84,0,0,1-2.5-3.78c.13-.16,1.48,1.59,2.83,2.94.54.54,2.07.75,2.85,1a22.12,22.12,0,0,1-1.75-2.31,33.21,33.21,0,0,1-.6-4.4c.2,0,.8,2,1.4,4a10.25,10.25,0,0,0,2.9,2.3c-.3-1.1-.7-2.1-.8-2.6s.24-5.38.5-5.3-.1,2.5.2,5c.6,1.4.79,1.91,1.5,2.3,2.24.08,4.5.3,4.5.3s-.84-3.88.24-5,2.8-2.19,2.86-2.54.1-.3.2-.4c.3-.3,1.5-.1,1.9.1a9,9,0,0,1,.6,1.4s.1.1.4,0a8.46,8.46,0,0,0,1.2-3c-.3-1.1-1.62-4.19-1.4-4.2s1.2,2,2.1,4.1a8.82,8.82,0,0,1-1.4,3.6A21.42,21.42,0,0,1,64.39,22.2Z" transform="translate(0 -0.11)"/><path class="cls-5" d="M62.06,70.72A42.73,42.73,0,0,1,26.79,3.87,42.73,42.73,0,1,0,78,67.64,42.65,42.65,0,0,1,62.06,70.72Z" transform="translate(0 -0.11)"/><text class="cls-6" y="-0.11"><tspan x="47.06" y="36.29" xml:space="preserve">                </tspan><tspan class="cls-7"><tspan x="39.43" y="46.36">X</tspan><tspan class="cls-8" x="44.18" y="46.36">ML </tspan></tspan><tspan x="26.99" y="56.44" xml:space="preserve"> E</tspan><tspan class="cls-9" x="32.4" y="56.44">X</tspan><tspan x="37.15" y="56.44">TERNAL&gt;</tspan><tspan x="32.45" y="66.51">&lt;!</tspan><tspan class="cls-9" x="38.37" y="66.51">E</tspan><tspan x="42.2" y="66.51">NTITY </tspan></text><polygon class="cls-10" points="41.73 13.43 39 33.72 55.56 35.95 57.63 20.59 52.94 14.94 41.73 13.43"/><polyline class="cls-10" points="52.94 14.94 52.27 19.93 57.62 20.65"/><text class="cls-11" transform="translate(40.78 27.97) rotate(7.67)">&lt;/&gt;</text></g></g></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 86.69 93.04"
+   version="1.1"
+   id="svg3044"
+   sodipodi:docname="xml_external_entity.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata3048">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1841"
+     inkscape:window-height="879"
+     id="namedview3046"
+     showgrid="false"
+     inkscape:zoom="7.1744281"
+     inkscape:cx="49.831787"
+     inkscape:cy="43.721529"
+     inkscape:window-x="79"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g3040" />
+  <defs
+     id="defs3002">
+    <style
+       id="style2997">.cls-1,.cls-10{fill:none;}.cls-2{clip-path:url(#clip-path);}.cls-3{fill:#00a19a;stroke:#00a19a;stroke-width:10px;}.cls-10,.cls-3{stroke-miterlimit:10;}.cls-4{fill:#00867f;}.cls-11,.cls-5,.cls-7,.cls-9{fill:#fff;}.cls-5{opacity:0.07;}.cls-6{font-size:8px;font-family:Hind-SemiBold, Hind;letter-spacing:-0.05em;}.cls-6,.cls-8{fill:#878787;}.cls-11,.cls-6{font-weight:700;}.cls-9{letter-spacing:-0.05em;}.cls-10{stroke:#fff;}.cls-11{font-size:11.57px;font-family:HalisR-Bold, Halis R;}</style>
+    <clipPath
+       id="clip-path"
+       transform="translate(0 -0.11)">
+      <circle
+         class="cls-1"
+         cx="45.94"
+         cy="41.1"
+         r="41.1"
+         id="circle2999" />
+    </clipPath>
+  </defs>
+  <title
+     id="title3004">Element 275</title>
+  <g
+     id="Ebene_2"
+     data-name="Ebene 2">
+    <g
+       id="Ebene_2-2"
+       data-name="Ebene 2">
+      <g
+         class="cls-2"
+         clip-path="url(#clip-path)"
+         id="g3040">
+        <circle
+           class="cls-3"
+           cx="45.57"
+           cy="41.12"
+           r="36.12"
+           id="circle3006" />
+        <path
+           class="cls-4"
+           d="M64.39,22.2a21.42,21.42,0,0,1,1.8,2,8.82,8.82,0,0,1,3.6-1.4c2.1.9,4.11,1.89,4.1,2.1s-3.1-1.1-4.2-1.4a8.65,8.65,0,0,0-3,1.2c-.1.3,0,.4,0,.4a9,9,0,0,1,1.4.6c.2.4.4,1.6.1,1.9-.1.1,0,.15-.4.2s-1.46,1.78-2.54,2.86-5,.25-5,.25.23,2.25.3,4.5c.4.71.9.9,2.3,1.5,2.5.3,4.91-.07,5,.2s-4.86.58-5.3.5-1.5-.5-2.6-.8a10.44,10.44,0,0,0,2.3,2.9c2,.6,4,1.2,4,1.4a33.21,33.21,0,0,1-4.4-.6,26.76,26.76,0,0,1-2.31-1.75c.26.77.47,2.31,1,2.85,1.35,1.35,3.1,2.7,2.95,2.83a34.84,34.84,0,0,1-3.78-2.5C59,40.38,58,37.68,58,37.68H56.88a172.74,172.74,0,0,1,3.81,41c-4.32-2.15-14.87-18.09-7.59-28.35C54.33,48.64,54.45,38,54.45,38a8.28,8.28,0,0,1-2.36-1,3.14,3.14,0,0,1-.7.1C56,47.53,23.88,62.71,23.88,62.71s15.18-32.09,25.71-27.5a2.59,2.59,0,0,1,.1-.7,8.19,8.19,0,0,1-1-2.37s-10.7.13-12.42,1.35C26,40.78,10,30.22,7.88,25.9a173.5,173.5,0,0,1,41,3.81V28.63s-2.7-1.08-4.26-1.79a35.84,35.84,0,0,1-2.5-3.78c.13-.16,1.48,1.59,2.83,2.94.54.54,2.07.75,2.85,1a22.12,22.12,0,0,1-1.75-2.31,33.21,33.21,0,0,1-.6-4.4c.2,0,.8,2,1.4,4a10.25,10.25,0,0,0,2.9,2.3c-.3-1.1-.7-2.1-.8-2.6s.24-5.38.5-5.3-.1,2.5.2,5c.6,1.4.79,1.91,1.5,2.3,2.24.08,4.5.3,4.5.3s-.84-3.88.24-5,2.8-2.19,2.86-2.54.1-.3.2-.4c.3-.3,1.5-.1,1.9.1a9,9,0,0,1,.6,1.4s.1.1.4,0a8.46,8.46,0,0,0,1.2-3c-.3-1.1-1.62-4.19-1.4-4.2s1.2,2,2.1,4.1a8.82,8.82,0,0,1-1.4,3.6A21.42,21.42,0,0,1,64.39,22.2Z"
+           transform="translate(0 -0.11)"
+           id="path3008" />
+        <path
+           class="cls-5"
+           d="M62.06,70.72A42.73,42.73,0,0,1,26.79,3.87,42.73,42.73,0,1,0,78,67.64,42.65,42.65,0,0,1,62.06,70.72Z"
+           transform="translate(0 -0.11)"
+           id="path3010" />
+        <text
+           class="cls-6"
+           y="1.8899999"
+           id="text3032"
+           x="-2"
+           style="font-weight:700;font-size:8px;font-family:Hind-SemiBold, Hind;letter-spacing:-0.05em;fill:#878787">
+          <tspan
+             x="45.060001"
+             y="38.290001"
+             xml:space="preserve"
+             id="tspan3012">                </tspan>          <tspan
+             class="cls-7"
+             id="tspan3018"
+             style="fill:#ffffff">
+            <tspan
+               x="37.43"
+               y="48.360001"
+               id="tspan3014">X</tspan>
+            <tspan
+               class="cls-8"
+               x="42.18"
+               y="48.360001"
+               id="tspan3016"
+               style="fill:#878787">ML</tspan>
+          </tspan>
+          <tspan
+             x="24.99"
+             y="58.439999"
+             xml:space="preserve"
+             id="tspan3020"> E</tspan>          <tspan
+             class="cls-9"
+             x="30.400002"
+             y="58.439999"
+             id="tspan3022"
+             style="letter-spacing:-0.05em;fill:#ffffff">X</tspan>
+          <tspan
+             x="35.150002"
+             y="58.439999"
+             id="tspan3024">TERNAL&gt;</tspan>
+          <tspan
+             x="30.450001"
+             y="68.510002"
+             id="tspan3026">&lt;!</tspan>
+          <tspan
+             class="cls-9"
+             x="36.369999"
+             y="68.510002"
+             id="tspan3028"
+             style="letter-spacing:-0.05em;fill:#ffffff">E</tspan>
+          <tspan
+             x="40.200001"
+             y="68.510002"
+             id="tspan3030">NTITY</tspan>
+        </text>
+        <g
+           id="g4612"
+           transform="translate(-3.8438136,2)">
+          <polygon
+             style="fill:none;stroke:#ffffff;stroke-miterlimit:10"
+             transform="matrix(1.1563141,0,0,1.1563141,-6.0083715,-5.7073808)"
+             id="polygon3034"
+             points="57.63,20.59 52.94,14.94 41.73,13.43 39,33.72 55.56,35.95 "
+             class="cls-10" />
+          <polyline
+             style="fill:none;stroke:#ffffff;stroke-miterlimit:10"
+             transform="matrix(1.1563141,0,0,1.1563141,-6.0083715,-5.7073808)"
+             id="polyline3036"
+             points="52.94 14.94 52.27 19.93 57.62 20.65"
+             class="cls-10" />
+          <text
+             style="font-weight:700;font-size:9.05797958px;font-family:HalisR-Bold, 'Halis R';fill:#ffffff;stroke-width:0.78288502"
+             y="20.519228"
+             x="43.491611"
+             id="text3038"
+             transform="rotate(7.67)"
+             class="cls-11">&lt;/&gt;</text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
