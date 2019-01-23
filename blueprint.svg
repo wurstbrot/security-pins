@@ -25,20 +25,20 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6568543"
-     inkscape:cx="-6.5022072"
-     inkscape:cy="49.234302"
+     inkscape:zoom="8.0000001"
+     inkscape:cx="57.376379"
+     inkscape:cy="47.724966"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer6"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1841"
-     inkscape:window-height="879"
-     inkscape:window-x="79"
-     inkscape:window-y="27"
+     inkscape:window-width="1920"
+     inkscape:window-height="979"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata1706">
@@ -64,13 +64,13 @@
        transform="translate(76.098697,100.99309)"
        style="display:inline">
       <circle
-         transform="translate(-76.098696,-100.99309)"
          class="cls-4"
          cx="88.987877"
          cy="113.88011"
          r="12.889999"
          id="circle129-7"
-         style="display:inline;fill:#b3b3b3;fill-opacity:1;stroke:#dadada;stroke-width:0;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+         style="display:inline;fill:#b3b3b3;fill-opacity:1;stroke:#dadada;stroke-width:0;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         transform="translate(-76.098696,-100.99309)" />
       <path
          transform="translate(-86.908836,-143.51764)"
          class="cls-5"
@@ -130,5 +130,17 @@
        cy="12.885541"
        rx="12.888499"
        ry="12.888245" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="contentscope">
+    <ellipse
+       style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.102;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1859-3"
+       cx="12.825768"
+       cy="12.893641"
+       rx="10.409864"
+       ry="10.409657" />
   </g>
 </svg>
