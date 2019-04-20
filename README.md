@@ -20,6 +20,10 @@ Benefits:
 ## Exporting SVGs
 When exporting SVGs files, try to export the text as objects to preserve the format and style of the text even when the computer doesn't have installed the font you used.
 
+### Generation of PDF files
+In case you want to create pins by yourself, you want to have multiple pin images printed on one page and use a pin machine afterwards.
+To create PDFs with multiple pin images on it, see https://github.com/wurstbrot/security-pins-pdf.
+
 # Project Collaborators
 - [Timo Pagel](https://github.com/wurstbrot) aka `wurstbrot`
 - [Katharina Treptow](https://github.com/ktreptow) aka `ktreptow`
