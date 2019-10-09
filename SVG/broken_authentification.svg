@@ -11,7 +11,7 @@
    version="1.1"
    id="svg107"
    sodipodi:docname="broken_authentification.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    width="97.487488"
    height="97.452087">
   <metadata
@@ -35,17 +35,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1841"
-     inkscape:window-height="879"
+     inkscape:window-width="2420"
+     inkscape:window-height="1300"
      id="namedview109"
      showgrid="false"
      inkscape:zoom="5.6526945"
-     inkscape:cx="-6.7717828"
-     inkscape:cy="35.748819"
-     inkscape:window-x="79"
-     inkscape:window-y="27"
+     inkscape:cx="18.832722"
+     inkscape:cy="35.395005"
+     inkscape:window-x="140"
+     inkscape:window-y="66"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="g1114"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
@@ -368,16 +368,24 @@
            style="fill:#ffffff;stroke-width:1.17461145" />
         <text
            y="48.343552"
-           x="11.772161"
+           x="12.409177"
            class="cls-6"
            id="text97"
-           style="font-weight:700;font-size:16.52678299px;font-family:Hind-SemiBold, Hind;fill:#1d1d1b;stroke-width:1.17461145">BROKEN</text>
+           style="font-weight:700;font-size:16.52678299px;font-family:Hind-SemiBold, Hind;fill:#1d1d1b;stroke-width:1.17461145">
+          <tspan
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16.52666664px;font-family:Hind;-inkscape-font-specification:'Hind, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+             id="tspan872">BROKEN</tspan>
+        </text>
         <text
            y="55.861065"
-           x="12.735343"
+           x="16.150793"
            class="cls-7"
            id="text99"
-           style="font-weight:700;font-size:7.04766893px;font-family:Hind-SemiBold, Hind;letter-spacing:-0.02em;fill:#1d1d1b;stroke-width:1.17461145">AUTHENTIFICATION</text>
+           style="font-weight:700;font-size:7.04766893px;font-family:Hind-SemiBold, Hind;letter-spacing:-0.02em;opacity:1;fill:#1d1d1b;stroke-width:1.17461145">
+          <tspan
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:7.04773331px;font-family:Hind;-inkscape-font-specification:'Hind, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+             id="tspan870">AUTHENTICATION</tspan>
+        </text>
       </g>
     </g>
     <g
