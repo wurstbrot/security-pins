@@ -24,6 +24,11 @@ When exporting SVGs files, try to export the text as objects to preserve the for
 In case you want to create pins by yourself, you want to have multiple pin images printed on one page and use a pin machine afterwards.
 To create PDFs with multiple pin images on it, see https://github.com/wurstbrot/security-pins-pdf.
 
+# Setup to create own pins 
+* Download https://fonts.google.com/download?family=Hind
+* Install the font, e.g. https://gist.github.com/lightonphiri/5811226a1fba0b3df3be73ff2d5b351c (Ubuntu)
+* Install Inkscape
+
 # Project Collaborators
 - [Timo Pagel](https://github.com/wurstbrot) aka `wurstbrot`
 - [Katharina Treptow](https://github.com/ktreptow) aka `ktreptow`
