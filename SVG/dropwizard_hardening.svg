@@ -15,7 +15,7 @@
    sodipodi:docname="dropwizard_hardening.svg"
    width="26.5mm"
    height="26.5mm"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <metadata
      id="metadata43">
     <rdf:RDF>
@@ -37,17 +37,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="3373"
-     inkscape:window-height="1385"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
      id="namedview41"
      showgrid="false"
      units="mm"
      inkscape:document-units="mm"
      inkscape:zoom="10.772929"
-     inkscape:cx="47.804846"
-     inkscape:cy="53.807233"
-     inkscape:window-x="1987"
-     inkscape:window-y="27"
+     inkscape:cx="28.868492"
+     inkscape:cy="53.435932"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer6"
      showguides="true"
@@ -163,7 +163,7 @@
      id="layer6"
      inkscape:label="Foreground">
     <ellipse
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#000009;stroke-width:9.01584053;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:9.01584053;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
        id="circle11-8"
        cy="49.795525"
        cx="50.320621"
