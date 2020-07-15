@@ -32,3 +32,6 @@ To create PDFs with multiple pin images on it, see https://github.com/wurstbrot/
 # Project Collaborators
 - [Timo Pagel](https://github.com/wurstbrot) aka `wurstbrot`
 - [Katharina Treptow](https://github.com/ktreptow) aka `ktreptow`
+
+# License Hints
+The picture "Security Knight and Dame" includes the Logo of Timo Pagel IT-Consulting. The Logo is not distributed under Creative Commons and it is not allowed to modify it.
