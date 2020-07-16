@@ -39,5 +39,6 @@ The pin "Security Knight and Dame" includes the Logo of Timo Pagel IT-Consulting
 Unknown licenses:
 * Dropwizard image
 * Open Policy image
+* Further pins might include Logos with unknown licenses
 
 In case you have identified license violations, please open an issue and we will solve it.
