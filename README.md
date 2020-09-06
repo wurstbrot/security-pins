@@ -24,10 +24,22 @@ When exporting SVGs files, try to export the text as objects to preserve the for
 In case you want to create pins by yourself, you want to have multiple pin images printed on one page and use a pin machine afterwards.
 To create PDFs with multiple pin images on it, see https://github.com/wurstbrot/security-pins-pdf.
 
-# Setup to create own pins 
+# Setup to create own pin images
 * Download https://fonts.google.com/download?family=Hind
 * Install the font, e.g. https://gist.github.com/lightonphiri/5811226a1fba0b3df3be73ff2d5b351c (Ubuntu)
 * Install Inkscape
+
+# Sticker/Pin creation options
+The following are just example providers, any other sticker provider will also be ok. This are experiences from Timo
+## Sticker Mule
+Sticker mule provides the payed service to order stickers and pins (called buttons).
+
+## Self Made
+It is fun to create some stickers on your own. A badge/pin machine is needed. I am using 25mm radius. For example [Buttonmaschine 900](https://www.badgematic.de/de/buttonmaschinen/buttonmaschine-900-flexi/buttonmaschine-900-flexi-25-mm/buttonmaschine-900-flexi-25-mm-multiplus-100). 
+In this case, the following process is recommended:
+* Creation of PDFs with a black border to easily adjust the paper on the machine
+* Printing the PDF with the desired design
+* Using the machine to create pins
 
 # Project Collaborators
 - [Timo Pagel](https://github.com/wurstbrot) aka `wurstbrot`
