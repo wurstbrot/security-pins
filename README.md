@@ -54,3 +54,6 @@ Unknown licenses:
 * Further pins might include Logos with unknown licenses
 
 In case you have identified license violations, please open an issue and we will solve it.
+
+# Donations
+You want to support the project but you are not a designer? You can donate money so that we can buy pins/stickers for conferences at https://owasp.org/donate?reponame=www-project-security-pins&title=OWASP+Security+Pins
