@@ -57,3 +57,9 @@ In case you have identified license violations, please open an issue and we will
 
 # Donations
 You want to support the project but you are not a designer? You can donate money so that we can buy pins/stickers for conferences at https://owasp.org/donate?reponame=www-project-security-pins&title=OWASP+Security+Pins
+
+# Sponsors
+[![SDA-SE](https://raw.githubusercontent.com/DefectDojo/Documentation/master/doc/img/sda-se-logo.png)](https://sda-se.com/)
+[![Timo-Pagel](https://raw.githubusercontent.com/DefectDojo/Documentation/master/doc/img/timo-pagel-logo.png )](https://pagel.pro/)
+
+
