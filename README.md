@@ -46,6 +46,7 @@ In this case, the following process is recommended:
 - [Katharina Treptow](https://github.com/ktreptow) aka `ktreptow`
 
 # License Hints
+The license is declared in the file [LICENSE](https://github.com/wurstbrot/security-pins/blob/master/LICENCE).
 The pin "Security Knight and Dame" includes the Logo of Timo Pagel IT-Consulting. The Logo is not distributed under Creative Commons and it is not allowed to modify it.
 
 Unknown licenses:
