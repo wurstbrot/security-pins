@@ -1,1 +1,0 @@
-- Container Security Pin: Designed by dcabin, dcabin8@gmail.com sponsored by Timo Pagel IT-Consulting
