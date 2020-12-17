@@ -47,14 +47,7 @@ In this case, the following process is recommended:
 
 # License Hints
 The license is declared in the file [LICENSE](https://github.com/wurstbrot/security-pins/blob/master/LICENCE).
-The pin "Security Knight and Dame" includes the Logo of Timo Pagel IT-Consulting. The Logo is not distributed under Creative Commons and it is not allowed to modify it.
-
-Unknown licenses:
-* Dropwizard image
-* Open Policy image
-* Further pins might include Logos with unknown licenses
-
-In case you have identified license violations, please open an issue and we will solve it.
+Pins with unknown licenses or commercial licenses are available in the branch [license-issues](https://github.com/wurstbrot/security-pins/tree/license-issues)
 
 # Donations
 You want to support the project but you are not a designer? You can donate money so that we can buy pins/stickers for conferences at https://owasp.org/donate?reponame=www-project-security-pins&title=OWASP+Security+Pins
