@@ -1,3 +1,5 @@
+[![OWASP Labs](https://img.shields.io/badge/owasp-labs%20project-f7b73c.svg)](https://www.owasp.org/index.php/OWASP_Project_Inventory#tab=Labs_Projects)
+
 Oftentimes motivating security champions is a challenge. Most of the time, they're not willing 
 to dedicate the time and effort to the invisible part of security. The product owners themselves focus on pushing
 the developement of features therefore the nessecity of security is often neglected or almost completely overlooked.
