@@ -16,7 +16,7 @@
    id="svg8"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="overview-10.svg"
-   inkscape:export-filename="/home/tpagel/git/security-pins/owasp-top-ten-2021-draft/overview.png"
+   inkscape:export-filename="/home/tpagel/git/security-pins/owasp-top-ten-2021-draft/overview-10.png"
    inkscape:export-xdpi="100"
    inkscape:export-ydpi="100">
   <defs
@@ -22971,13 +22971,6 @@ aD0idXJsKCNjbGlwUGF0aDE1ODQ3KSIgLz4KICAgIDwvZz4KICA8L2c+Cjwvc3ZnPgo=
          x="39.6875"
          y="70.217255"><tspan
            style="shape-inside:url(#rect4936-6-0-9-3-1-4-1-6-4-2)">A1</tspan></tspan></text>
-    <rect
-       style="opacity:1;fill:#ffffff;stroke:none;stroke-width:0.264583"
-       id="rect7043"
-       width="26.458332"
-       height="10.583333"
-       x="-108.47916"
-       y="137.58333" />
   </g>
   <style
      id="style869" />
